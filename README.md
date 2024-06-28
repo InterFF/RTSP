@@ -23,7 +23,7 @@ This library works for ESP32/arduino
 
 
 
-库文件：[RTSP](https://github.com/aleiei/ESP32-CAM-RTSP/tree/3a34d008cdca43d6cf22f46c8919ce7ac632ee21/srchttps://github.com/aleiei/ESP32-CAM-RTSP/tree/3a34d008cdca43d6cf22f46c8919ce7ac632ee21/src)
+库文件：[RTSP](https://github.com/InterFF/RTSP)
 
 库文件安装：手动将库文件解压到 lib目录
 
